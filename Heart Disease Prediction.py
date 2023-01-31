@@ -1,6 +1,6 @@
 #!/usr/bin/env python
 # coding: utf-8
-#import Section
+#import the Section
 # In[2]:
 
 
